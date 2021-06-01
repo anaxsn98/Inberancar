@@ -1,7 +1,7 @@
-# Inberancar
+# Inverancar
 ![](foto4.jpg)
 ## Introducción
-Inberancar es nunestro proyecto realizado con componentes arduino. Se trata de un invernadero con ventilación, sensor de humedad, sistema de riego e iluminación.
+Inverancar es nunestro proyecto realizado con componentes arduino. Se trata de un invernadero con ventilación, sensor de humedad, sistema de riego e iluminación.
 
 ## Componentes
 #### 1.Arduino
@@ -62,3 +62,6 @@ los componentes en su lugar correspondiente.
 ![](foto6.jpg)
 ![](foto6.jpg)
 ![](foto5.jpg)
+
+### Montaje 
+Lo primero que necesitamos es el material que podemos ver más arriba, en nuestro caso para hacer la estructura hemos utilizado bambú (para crar la estructura, es decir, los cimientos de nuestro invernadero), con la madera haremos la base de nuestro invernadero creacando una cajita para más adelante meter nuestras plantas y por último el polietireno el cual va hacer de paredes.
