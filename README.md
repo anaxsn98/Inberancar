@@ -72,3 +72,11 @@ Lo primero que haremos será crear la base de nuestra estructura, a continuacion
 
 ## Esquema del escenario de red
 ![](foto8.PNG)
+
+## Referencias
+Bomba de agua y relé: https://www.amazon.es/RUNCCI-YUN-Sistema-Autom%C3%A1tico-Arduino-Humedad/dp/B0814HXWVV/ref=asc_df_B0814HXWVV/?tag=googshopes-21&linkCode=df0&hvadid=420354457167&hvpos=&hvnetw=g&hvrand=10323851708403857687&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005493&hvtargid=pla-845333898910&psc=1&tag=&ref=&adgrpid=97670014738&hvpone=&hvptwo=&hvadid=420354457167&hvpos=&hvnetw=g&hvrand=10323851708403857687&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005493&hvtargid=pla-845333898910
+
+Motor: https://descubrearduino.com/dc-motor/
+
+
+
