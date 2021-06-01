@@ -63,5 +63,7 @@ los componentes en su lugar correspondiente.
 ![](foto6.jpg)
 ![](foto5.jpg)
 
-### Montaje 
+### Montaje Estructura
 Lo primero que necesitamos es el material que podemos ver más arriba, en nuestro caso para hacer la estructura hemos utilizado bambú (para crar la estructura, es decir, los cimientos de nuestro invernadero), con la madera haremos la base de nuestro invernadero creacando una cajita para más adelante meter nuestras plantas y por último el polietireno el cual va hacer de paredes.
+### Partes
+Lo primero que haremos será crear la base de nuestra estructura, a continuacion haremos los cimientos de nuestro invernadero con bambú y por último de estructura pondremos las paredes.Una vez tenemos la estructura del proyecto procederemos al cableado y por ultimo al código
