@@ -15,6 +15,7 @@ Inberancar es nunestro proyecto realizado con componentes arduino. Se trata de u
 #### 10.Boton
 #### 11.Ventilador
 #### 12.Protoboard
+![](Captura de pantalla 2021-06-01 a las 16.59.40.png)
 
 
 ## Explicación
