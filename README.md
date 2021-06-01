@@ -71,4 +71,4 @@ Lo primero que haremos será crear la base de nuestra estructura, a continuacion
 
 
 ## Esquema del escenario de red
-![](foto8.png)
+![](foto8.PNG)
