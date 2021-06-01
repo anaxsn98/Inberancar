@@ -1,6 +1,6 @@
 # Inberancar
 ## Introducción
-Inberancar es el nombre de unestro proyecto arduino. El proyecto es un invernadero con ventilación, sensor de humedad, sistema de riego e iluminación.
+Inberancar es nunestro proyecto realizado con componentes arduino. Se trata de un invernadero con ventilación, sensor de humedad, sistema de riego e iluminación.
 
 ## Componentes
 #### 1.Arduino
@@ -17,4 +17,8 @@ Inberancar es el nombre de unestro proyecto arduino. El proyecto es un invernade
 #### 12.Protoboard
 
 
-##Descripción
+## Explicación
+El sistema de riego funciona de la siguiente manera: el sensor de humedad detecta la humedad que tiene la tierra en caso de que esté baja se actva el sistema de riego.
+
+
+Sistema de ventilación e ilumninación: cuando se pulsa el botón se activan ambos sistemas el motor se activa junto con los led y cuando dejas de pulsar se desactiva.
