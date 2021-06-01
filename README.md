@@ -27,5 +27,34 @@ El sistema de riego funciona de la siguiente manera: el sensor de humedad detect
 
 
 Sistema de ventilación e ilumninación: cuando se pulsa el botón se activan ambos sistemas el motor se activa junto con los led y cuando dejas de pulsar se desactiva.
+
+## Conexiones por partes
+### Los LED
+Lo primero que haremos será enganchar las LED a la Placa Protoboard de tal forma
+que la parte positiva de los LED, la parte más larga, esté colocada a la izquierda,
+para que más adelante nos resulte más fácil poner los conectores y las
+resistencias. Una vez hemos enganchado cada LED lo que haremos será conectar
+las 6 resistencias; Enganchamos una de las patas de la resistencia a la misma fila
+de un LED donde se encuentra su pata positiva y el otro extremo a otro sitio para
+que después en esa misma fila enganchemos un conector que por su otra parte
+estará colocado en su pin correspondiente del Arduino. Y por último lo que
+haremos será conectar todas las patas del LED (Las negativas), gracias a los
+conectores MM y los engancharemos todos en una misma fila en la cual, de esa
+misma fila va a salir un conector, que no está enganchado a ninguna LED, el cual va
+a conectarse con el pin GND del Arduino, por último conectar el cable USB tipo AB.
+### El Ventilador
+Lo primero que haremos será crear el siguiente circuito poniendo y enganchando
+los componentes en su lugar correspondiente.
+![](foto7.jpg)
+Y a continuación para añadirle el potenciómetro al tener tres patas enganchamos
+una de ellas a la corriente “tierra” otra de ellas a la parte positiva y la última que
+es la que está sola es la parte de enganchar lo que queremos que funcione por lo
+que enganchamos otra parte positiva y así gracias al montaje anterior y a añadir el
+potenciómetro conseguimos nuestro segundo proyecto.
+### Sistema de riego
+Creamosrear el siguiente circuito poniendo y enganchando
+los componentes en su lugar correspondiente.
+
+![](foto6.jpg)
 ![](foto6.jpg)
 ![](foto5.jpg)
