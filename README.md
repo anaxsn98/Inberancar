@@ -10,5 +10,11 @@ Inberancar es el nombre de unestro proyecto arduino. El proyecto es un invernade
 #### 5.Cables
 #### 6.LED (blanco, amarillo)
 #### 7.Relé
-#### 8.bomba de agua
-#### 9.sensor humedad
+#### 8.Bomba de agua
+#### 9.Sensor humedad
+#### 10.Boton
+#### 11.Ventilador
+#### 12.Protoboard
+
+
+##Descripción
