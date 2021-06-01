@@ -19,7 +19,7 @@ Inberancar es nunestro proyecto realizado con componentes arduino. Se trata de u
 
 ![](foto1.jpg)
 ![](foto2.jpg)
-![](foto3.jpg)
+
 
 
 ## Explicación
@@ -54,7 +54,11 @@ potenciómetro conseguimos nuestro segundo proyecto.
 ### Sistema de riego
 Creamosrear el siguiente circuito poniendo y enganchando
 los componentes en su lugar correspondiente.
+![](foto3.jpg)
 
+
+
+### Resultado conexiones
 ![](foto6.jpg)
 ![](foto6.jpg)
 ![](foto5.jpg)
